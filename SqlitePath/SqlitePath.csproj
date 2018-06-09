@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <!--Work around so the conditions work below-->
@@ -29,8 +29,8 @@
     
     <!--TODO: Fill these in-->
     <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>LINK TO PROJECT</PackageProjectUrl>
-    <RepositoryUrl>LINK TO PROJECT</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/manojkulkarni30/SqlitePathPlugin</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/manojkulkarni30/SqlitePathPlugin</RepositoryUrl>
     <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
     <PackageIconUrl>ICON URL</PackageIconUrl>
     <PackageTags>xamarin, windows, ios, android, xamarin.forms, plugin, sqlite path</PackageTags>
@@ -40,11 +40,12 @@
     <Description>Plugin Description</Description>
     
     
-    <Owners>YOU</Owners>
+    <Owners>Manoj Kulkarni</Owners>
     <Authors>Manoj Kulkarni</Authors>
     <Copyright>Copyright 2018</Copyright>
     <Company />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
