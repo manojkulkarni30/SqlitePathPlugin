@@ -31,13 +31,13 @@
     <PackageLicenseUrl>LINK TO LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/manojkulkarni30/SqlitePathPlugin</PackageProjectUrl>
     <RepositoryUrl>https://github.com/manojkulkarni30/SqlitePathPlugin</RepositoryUrl>
-    <PackageReleaseNotes>RELEASE NOTES</PackageReleaseNotes>
+    <PackageReleaseNotes>Initial beta release</PackageReleaseNotes>
     <PackageIconUrl>ICON URL</PackageIconUrl>
     <PackageTags>xamarin, windows, ios, android, xamarin.forms, plugin, sqlite path</PackageTags>
     
     <Title>SqlitePath Plugin for Xamarin and Windows</Title>
     <Summary>Summary of nuget</Summary>
-    <Description>Plugin Description</Description>
+    <Description>Sqlite Path Plugin For Xamarin</Description>
     
     
     <Owners>Manoj Kulkarni</Owners>
